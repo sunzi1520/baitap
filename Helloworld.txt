@@ -1,3 +1,4 @@
 begin
   writeln('Hello world!!!');
+  write('I love you.');
 end.
